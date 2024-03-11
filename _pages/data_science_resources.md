@@ -2,7 +2,7 @@
 layout: default
 permalink: /data_science_resources/
 title: Data Science Resources
-description: Resources for Python programming, machine learning, and data visualization
+description: Resources for python programming, machine learning, and data visualization
 ---
 
 # Table of Contents

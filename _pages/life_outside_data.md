@@ -2,7 +2,7 @@
 layout: page
 title: Life outside data
 description: A growing collection of your cool projects.
-nav: false
+nav: true
 nav_order: 4
 display_categories: [Travel, Books, TV and movies, Music]
 horizontal: false

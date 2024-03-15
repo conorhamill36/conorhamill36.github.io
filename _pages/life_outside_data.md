@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Life outside data
+permalink: /life_outside_data/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 4

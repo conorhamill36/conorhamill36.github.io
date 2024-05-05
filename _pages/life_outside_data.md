@@ -16,6 +16,9 @@ horizontal: false
     <div class="l-page">
       <iframe src="{{ '/assets/folium/travel_map.html' | relative_url }}" frameborder='0' scrolling='no' height="500px" width="100%" style="border: 1px dashed grey;"></iframe>
     </div>
+    {% details Generating the map %}
+    The above map is generatefd using the [folium package](https://python-visualization.github.io/folium/latest/getting_started.html) and can be altered by changing the information in `assets/folium/travel_map_data.csv` and running `generate_travel_map.py`.
+    {% enddetails %}
 </section>
 {% endif %}
 

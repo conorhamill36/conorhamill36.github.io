@@ -13,6 +13,9 @@ horizontal: false
 <section>
     <h1>Travel</h1>
     <p>I'm a keen traveller and enjoy seeing different cultures and foods from other places. I've been fortunate in having being able to travel to many places, including some as part of my PhD travels. Some of my personal highlights of my travels have included the Southern USA, Tokyo, Munich, and Rome. </p>
+    <div class="l-page">
+      <iframe src="{{ '/assets/folium/travel_map.html' | relative_url }}" frameborder='0' scrolling='no' height="500px" width="100%" style="border: 1px dashed grey;"></iframe>
+    </div>
 </section>
 {% endif %}
 

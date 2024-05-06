@@ -55,6 +55,7 @@ def main():
 
     # saving output to assets
     output_path = "assets/folium/travel_map.html"
+    print(f"Writing output map to {output_path}")
     travel_map.save(output_path)
 
 

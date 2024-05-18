@@ -5,7 +5,7 @@
     "image": "",
     "email": "conorhamill36@hotmail.com",
     "url": "https://conorhamill36.github.io",
-    "summary": "Data scientist working in financial services. ",
+    "summary": "Data scientist/ AI researcher working in financial services.",
     "location": {
       "city": "Edinburgh",
       "countryCode": "UK",
@@ -66,4 +66,4 @@
       "icon": "fa-solid fa-location-dot"
     }
   ]
-  }
+}

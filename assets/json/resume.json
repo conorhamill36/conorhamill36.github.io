@@ -63,8 +63,9 @@
       "name": "AWS Certified Machine Learning - Specialty",
       "date": "2024-05-18",
       "issuer": "Amazon Web Services",
-      "url": "https://aws.amazon.com/certification/",
-      "icon": "fa-solid fa-cloud"
+      "url": "https://www.credly.com/badges/00a0aa25-df81-4a3c-9cc2-4c29d7413d68/public_url",
+      "icon": "fa-solid fa-cloud",
+      "image": "assets/img/aws-certified-machine-learning-specialty_badge_60_by_60.png"
     }
   ]
 }

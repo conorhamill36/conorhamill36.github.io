@@ -22,7 +22,8 @@ This page is a short collection of resources I've found most useful in learning 
   - [Podcasts](#podcasts-1)
 - [Data Visualization](#data-visualization)
   - [Online Resources](#online-resources-2)
-
+- [Computer science/software engineering](#computer-sciencesoftware-engineering)
+	- [Online Resources](#online-resources-3)
 # Data Science Resources
 
 ## Python Programming
@@ -82,3 +83,9 @@ This page is a short collection of resources I've found most useful in learning 
 - **Python Graph Gallery**: [Python Graph Gallery](https://python-graph-gallery.com/)
 	- Want to make a plot in Python but can't remember which of matplotlib/seaborn/pyplot is best for this and how you get started? This is the website for you
 	- Grouped by (many) types of plots, with code examples for all the libraries that provide options for this
+
+## Computer science/software engineering
+### Online Resources
+- **The Missing Semester of Your CS Education**: [./missing-semester](https://missing.csail.mit.edu)
+	- A course that covers the tools programmers will use the most "as fluid and frictionless as possible", including shell tools (bash), editors (Vim), and version control (Git) 
+	- I would recommend that anyone and everyone who programs takes the time out to do this course. This is the course I wish had been the first thing I had done at the start of my PhD 

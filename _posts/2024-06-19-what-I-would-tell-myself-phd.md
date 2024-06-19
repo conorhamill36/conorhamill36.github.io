@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What I would tell myself at the start of my PhD￥ 
+title: What I would tell myself at the start of my PhD 
 date: 2024-06-18 17:30:00
 description: Some reflections and advice I would give myself starting a PhD 
 tags: phd

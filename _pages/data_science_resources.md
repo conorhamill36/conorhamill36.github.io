@@ -3,8 +3,6 @@ layout: page
 title: Data Science Resources
 permalink: /data_science_resources/
 description: Resources for python programming, machine learning, and data visualization
-nav: true
-nav_order: 3
 ---
 
 This page is a short collection of resources I've found most useful in learning and revisiting data science skills.
@@ -76,7 +74,7 @@ This page is a short collection of resources I've found most useful in learning 
 ## Data Visualization
 
 ### Online Resources
-- **Matplotlib Quick Start Guide**: [Matplotlib Quick Start Guide](https://matplotlib.org/stable/users/explain/quick_start.html)
+- **Matplotlib Quick Start Guide**: [Matplotlib Quick Start Guide](https://matplotlib.org/stable/us)
 	- Guide to getting started with mpl, often skipped whenever visualizing with mpl
 	- Describes usage of the two paradigms in mpl - the explicit object-oriented style and the functional pyplot style. The distinction and usage between these two is a very common source of confusion for users
 - **Python Graph Gallery**: [Python Graph Gallery](https://python-graph-gallery.com/)

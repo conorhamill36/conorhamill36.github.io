@@ -1,10 +1,3 @@
----
-layout: default
-permalink: /data_science_resources/
-title: Data science resources
-description: Resources for python programming, machine learning, and data visualisation
----
-
 # Data Science Resources
 
 ## Python Programming

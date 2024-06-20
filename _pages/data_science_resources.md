@@ -1,11 +1,9 @@
 ---
-layout: page
-title: Data Science Resources
+layout: default
 permalink: /data_science_resources/
+title: Data Science Resources
 description: Resources for python programming, machine learning, and data visualization
 ---
-
-This page is a short collection of resources I've found most useful in learning and revisiting data science skills.
 
 # Table of Contents
 

@@ -57,10 +57,5 @@
       "url": "https://www.supa.ac.uk/studentship/index_old.php#:~:text=The%20SUPA%20Prize%20Studentships%20are,for%20a%20PhD%20in%20Scotland.",
       "summary": "Funding awarded for a PhD application of notably high quality."
     }
-  ],
-  "certificates": [{
-    "name": "AWS Certified Machine Learning - Specialty",
-    "date": "2024-05-18",
-    "issuer": "Amazon Web Services"
-  }]
+  ]
   }

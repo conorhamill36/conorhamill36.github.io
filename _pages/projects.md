@@ -2,7 +2,7 @@
 layout: page
 title: projects
 description: A growing collection of your cool projects.
-nav: false
+nav: true
 nav_order: 4
 display_categories: [work, fun]
 horizontal: false

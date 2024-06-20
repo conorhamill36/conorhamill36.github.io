@@ -2,8 +2,8 @@
 layout: page
 permalink: /life_outside_data/
 title: Life outside data
-description: A sample of my interests outside the world of data.
-nav: true
+description: A growing collection of your cool projects.
+nav: false
 nav_order: 4
 display_categories: [Travel, Books, TV and movies, Music]
 horizontal: false
@@ -25,7 +25,7 @@ horizontal: false
 
 <h2>Thrillers and crime</h2>
 <ul>
-  <li><strong>Steve Cavanagh</strong>
+  <li><strong>Brian Cavanagh</strong>
     <ul>
       <li>- Thirteen <em>(one of the best thrillers I've read)</em></li>
     </ul>
@@ -37,7 +37,7 @@ horizontal: false
   </li>
   <li><strong>Ian Rankin</strong>
     <ul>
-      <li>- Anything with Rebus, but The Falls is the book I've read that best captures Edinburgh</li>
+      <li>- Anything Rebus, but The Falls is the book I've read that best captures Edinburgh</li>
     </ul>
   </li>
 </ul>
@@ -77,7 +77,7 @@ horizontal: false
   </li>
   <li><strong>Susanna Clarke</strong>
     <ul>
-      <li>- Jonathan Strange & Mr Norrell</li>
+      <li>- Mr. Norell and Jonathan Strange</li>
       <li>- Piranesi</li>
     </ul>
   </li>
@@ -139,7 +139,7 @@ horizontal: false
   </li>
   <li><strong>Chris Miller</strong>
     <ul>
-      <li>- Chip War</li>
+      <li>- Chip war</li>
     </ul>
   </li>
   <li><strong>David Spiegelhalter</strong>

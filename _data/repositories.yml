@@ -1,7 +1,12 @@
 github_users:
-  - conorhamill36
+  - torvalds
   - alshedivat
 
 github_repos:
-  - conorhamill36/paper_title_creator
-  - scikit-learn/scikit-learn
+  - alshedivat/al-folio
+  - twbs/bootstrap
+  - jekyll/jekyll
+  - jquery/jquery
+  - FortAwesome/Font-Awesome
+  - jpswalsh/academicons
+  - mathjax/MathJax

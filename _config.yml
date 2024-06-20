@@ -203,7 +203,11 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_pages"]
+include: 
+  - _pages/cv.md
+  - _pages/data_science_resources.md
+  - _pages/publications.md
+  - _pages/about.md
 exclude:
   - _pages/about_einstein.md
   - _pages/blog.md

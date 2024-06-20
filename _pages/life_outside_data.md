@@ -18,7 +18,7 @@ horizontal: false
 
 {% if page.display_categories contains "Books" %}
 <section>
-    <h1>Books</h1>
+    <h1>Books</h>
     <p>I've always enjoyed esponiage novels, alongside fantasty and thrillers, and bits and pieces of non-fiction. I have a
     <a
     href="https://www.goodreads.com/user/show/46128883-conor-hamill" rel="external nofollow noopener" target="_blank">Goodreads account</a> which is really just a database of things I've read and want to read. Some of my person favourites are below.</p>

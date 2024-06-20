@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data science resources
+title: Data Science Resources
 permalink: /data_science_resources/
 description: Resources for python programming, machine learning, and data visualization
 nav: true

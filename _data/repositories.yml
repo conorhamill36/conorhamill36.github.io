@@ -1,12 +1,14 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - conorhamill36
 
 github_repos:
+  - joonspk-research/generative_agents
+  - awesomedata/awesome-public-datasets/
+  - awslabs/gluonts
+  - saurabh0719/constable
+  - manrajgrover/halo/
   - alshedivat/al-folio
-  - twbs/bootstrap
   - jekyll/jekyll
-  - jquery/jquery
   - FortAwesome/Font-Awesome
   - jpswalsh/academicons
   - mathjax/MathJax

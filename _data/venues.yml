@@ -4,3 +4,18 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+
+"PhysRevC":
+  url: https://journals.aps.org/prc/
+
+"EPJA":
+  url: https://link.springer.com/journal/10050
+
+"PhysRevLett":
+  url: https://prl.aps.org/
+
+"EPJConf":
+  url: https://www.epj-conferences.org/
+
+"arXiv":
+  url: https://arxiv.org/

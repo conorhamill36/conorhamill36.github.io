@@ -7,6 +7,8 @@ nav: false
 nav_order: 7
 display_categories: [Travel, Books, TV and movies, Music]
 horizontal: false
+toc:
+  sidebar: left
 ---
 
 {% if page.display_categories contains "Travel" %}

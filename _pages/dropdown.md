@@ -5,12 +5,9 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: publications
-    permalink: /publications/
+  - title: data science resource
+    permalink: /data_science_resources/
   - title: divider
-  - title: cv
-    permalink: /cv/
-  - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: life outside data
+    permalink: /life_outside_data/
 ---

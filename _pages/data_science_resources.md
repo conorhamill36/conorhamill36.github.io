@@ -3,7 +3,7 @@ layout: page
 title: learning
 permalink: /data_science_resources/
 description: A short collection of resources I've found most useful for learning and revisiting python programming, machine learning, and data visualization.
-nav: true
+nav: false
 nav_order: 6
 ---
 

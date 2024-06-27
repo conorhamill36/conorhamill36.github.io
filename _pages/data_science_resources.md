@@ -5,6 +5,8 @@ permalink: /data_science_resources/
 description: A short collection of resources I've found most useful for learning and revisiting python programming, machine learning, and data visualization.
 nav: false
 nav_order: 6
+toc:
+  sidebar: left
 ---
 
 # Table of Contents
@@ -22,6 +24,8 @@ nav_order: 6
   - [Online Resources](#online-resources-2)
 - [Computer science/software engineering](#computer-sciencesoftware-engineering)
   - [Online Resources](#online-resources-3)
+- [Git](#git)
+  - [Git undo flowchart](#git-undo-flowchart)
 
 ## Python Programming
 
@@ -95,3 +99,9 @@ nav_order: 6
 - **The Missing Semester of Your CS Education**: [./missing-semester](https://missing.csail.mit.edu)
   - A course that covers the tools programmers will use the most "as fluid and frictionless as possible", including shell tools (bash), editors (Vim), and version control (Git)
   - I would recommend that anyone and everyone who programs takes the time out to do this course. This is the course I wish had been the first thing I had done at the start of my PhD
+
+## Git
+
+### Git undo flowchart
+
+From repeated searching of the correct git command to undo some changes in a code repository, I have compiled a flowchart for finding the correct command that can be found [here](/data_science_resources/git_undo/).

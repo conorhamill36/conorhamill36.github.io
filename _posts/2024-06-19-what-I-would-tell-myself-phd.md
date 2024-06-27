@@ -7,6 +7,15 @@ tags: phd
 categories: posts
 ---
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/nebula-image.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/books-image.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 ## Introduction
 
 Completing my PhD in nuclear astrophysics in 2021 was the end of an experience filled with both immense challenges and rewarding experiences. After this, I transitioned from academia to industry and have worked for three years as a data scientist in financial services. I really enjoyed my PhD (despite the start of it being quite challenging and the pandemic making the end a bit of a damp squib) and it led to a very satisfying job in a team I really enjoy being part of, but there are lots of things I wish I had said to myself or had done differently during my PhD. One of the perennial problems in academia is that the knowledge and experiences of people in research groups are often lost as they move to different roles in different institutions. This happens very commonly with departing PhD students; the people who were once a major component of a research group are now only remembered by their names on the side of old theses on an office shelf. Given this, and since I’ve been away from my PhD long enough to see the world outside academia and reflect on things, compiling advice to give my past self seemed like a good activity.

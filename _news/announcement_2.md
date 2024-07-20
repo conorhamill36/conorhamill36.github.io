@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Publication of our paper on [agent-based modelling for credit card promotions on arXiv](https://arxiv.org/abs/2311.01901).
+Publication of our paper on [agent-based modelling for credit card promotions on arXiv](https://arxiv.org/abs/2311.01901). :credit_card:

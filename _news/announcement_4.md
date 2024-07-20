@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Publication of a review paper I contributed to titled ["A Brief Review of Quantum Machine Learning for Financial Services"](https://arxiv.org/abs/2407.12618), which examines the challenges and opportunities of applying quantum machine learning techniques to different applications in financial services, as part of a partnership between NatWest Group and the University of Edinburgh.
+Publication of a review paper I contributed to titled ["A Brief Review of Quantum Machine Learning for Financial Services"](https://arxiv.org/abs/2407.12618), as part of a collaboration between the NatWest Group and the University of Edinburgh. :computer:

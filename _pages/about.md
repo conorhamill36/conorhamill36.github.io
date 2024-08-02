@@ -33,6 +33,6 @@ My main PhD research topic consisted on measuring transfer reactions at TUNL, No
 the astrophysical weak s-process, which can be read [here](https://era.ed.ac.uk/handle/1842/38582).
 
 I defended my PhD in 2021 and joined NatWest Group as a data scientist in the Data Science &amp; Innovation team.
-My work at NatWest has consisted of developing machine learning models across a range of domains in the bank, as well as undertaking AI research for financial services as part of the NatWest AI Research (NAIR) team.
+My work at NatWest has consisted of developing machine learning models across a range of domains in the bank, as well as undertaking AI research for financial services as [part of the NatWest AI Research (NAIR) team](https://www.natwestgroup.com/news-and-insights/latest-stories/ai-and-data/2024/aug/ai-research.html).
 
 My published research works as a PhD research student and during my time as part of NAIR in NatWest can be found under the publications tab, as well as by following the link to my Google Scholar profile below.

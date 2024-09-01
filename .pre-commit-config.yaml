@@ -16,5 +16,3 @@ repos:
         description: This hooks runs the prettier linter.
         entry: npx prettier --write
         language: system
-        types: [markdown, json]
-        files: \.(json|md)$

@@ -15,6 +15,9 @@ categories: posts
         {% include figure.liquid path="assets/img/books-image.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+<div class="caption">
+    Images taken from <a href="https://unsplash.com">unsplash.com</a>.
+</div>
 
 ## Introduction
 

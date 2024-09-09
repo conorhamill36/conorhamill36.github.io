@@ -106,8 +106,17 @@ Alternatively, if you can apply some data science to your current role, that is 
 ### Advertise these projects to potential employers
 
 Finally, you want to make sure that potential recruiters will see these projects, and you can set yourself apart from other applicants.
-Put the code that you have developed in a public Github repository and make sure it has a story behind it -
+Put the code that you have developed in a public GitHub repository and make sure it has a story behind it - maybe you want to write a blog about it, or make a really interesting readme for the project, or find some way to host it online for others to use!
+Whatever way you decide to advertise it, make sure it clearly shows how you've solved your problem and links to your code.
+Additionally, do spend time tuning your CV to sell yourself and make sure it's specific to whatever job you are applying to.
 
 ## Conclusions
 
+That wraps up some pointers for how I would go about trying to get into data science if I had to again.
+Bear in mind this guide is very much not end-to-end and many of the soft skills that are essential for a data science are not given the time they are due in this post.
+
 ## Resources
+
+- [How to get a job in data science - a semi-harsh Q/A guide](https://www.reddit.com/r/datascience/comments/qph4tx/how_to_get_a_job_in_data_science_a_semiharsh_qa/) - many of the sentiments in this article are echoed in this post from u/save_the_pandas_bears, albeit in some stronger tones
+- [How to become a Data Scientist in 2024 - Datacamp](https://www.datacamp.com/blog/how-to-become-a-data-scientist)
+- ["Can I get a data science job with no experience?" - SheCanCode](https://shecancode.io/blog/can-i-get-a-data-science-job-with-no-prior-experience/)

@@ -53,7 +53,7 @@ toc:
 
 ### Podcasts
 
-- [Python Bytes](https://open.spotify.com/show/5o8820UB982QGwS4GYMGx9)
+- [Python Bytes](https://pythonbytes.fm/)
   - Translating Python discussion into an audio medium is challenging, but this light-hearted podcast is a great listen for packages, techniques, and opinions on Python
   - Contains some information on web development that might not be of interest to data scientists, but does give a break from the oft-repeated pandas/numpy/sklearn guidance.
 
@@ -78,7 +78,7 @@ toc:
 
 ### Podcasts
 
-- [**The AI Breakdown**](https://open.spotify.com/show/7gKwwMLFLc6RmjmRpbMtEO); Nathaniel Whittemore
+- [**The AI Breakdown**](https://www.youtube.com/channel/UCKelCK4ZaO6HeEI1KQjqzWA); Nathaniel Whittemore
   - High-level podcast about latest stories and opinion pieces in AI
 
 ## Data Visualization

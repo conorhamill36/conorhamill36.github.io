@@ -48,7 +48,7 @@ As data science practices mature in businesses, the range of professions is incr
 This trend seems to closely follow business consensus that you need a much more sophisticated data strategy to really transform a business than just training a model.
 Some roles, especially data engineers and machine learning engineers, are more sought after than data scientists, and will commonly pay better.
 There are also roles that require a different range of skills and still provide substantial business value.
-FOr example, data analysts can give great insights from data and clearly inform business decision-making, without the need for python and complex algorithms.
+For example, data analysts can give great insights from data and clearly inform business decision-making, without the need for python and complex algorithms.
 Additionally, it's becoming more commonplace for individuals to pivot from related data roles into data science.
 In short, it will be well worth you're time exploring which one of these roles you think might best fit your skill set and what you enjoy doing.
 
@@ -80,32 +80,23 @@ Andrej Karpathy described this very well in this [recent post on X/Twitter](http
 Below I describe roughly the order I would undertake learning, assuming a prior degree in some sort of science.
 Many of these resources are described in my [page on data science resources](/data_science_resources/).
 
-1. Learn software development:
-
-- with [the missing semester course from MIT](https://missing.csail.mit.edu/).
-  - this might feel like a dry one to start off with, but since this is probably the most fundamental skill here and all others rely on it, it is a good place to start. Being comfortable with you terminal and being able to collaborate using Git will make future learnings and your eventual job much easier.
-
-2. Learn python:
-
-- I don't have an exact python course I would recommend and given there are many different levels you may be starting at, I would steer you towards the [choice of python learning paths on Real Python](https://realpython.com/learning-paths/).
-- The main python website [python.org](https://www.python.org/about/gettingstarted/) has also indexed many useful resources
-- Out of all the skills here, python is the one you probably want to put the most time into being good at, because it will be the end product you will be producing a lot of the time.
-
-3. Learn statistical modelling:
-
-- The book "An Introduction to Statistical Learning" is available with examples in R or Python [here](https://www.statlearning.com/).
-  - I've found this book to cover the level of detail needed to understand modelling as a data scientist in a very digestible way.
-
-4. Learn how to do a machine learning project:
-
-- This point has a lot of similarities with the above, but I think this one begins the focus on the python packages used more
-- Andrew Ng's [machine learning specialisation](https://www.deeplearning.ai/courses/machine-learning-specialization/) on Coursera remains a classic for a reason, although pytorch has established itself over Tensorflow as the python deep learning framework of choice
-- For a book alternative, I would recommend ["Machine Learning with PyTorch and Scikit-Learn"](https://sebastianraschka.com/blog/2022/ml-pytorch-book.html)
-
-5. Learn (some) cloud computing:
-
-- How much you need to know will vary role by role, but understanding the fundamentals is good.
-- I don't have a stand-out recommendation for learning cloud computing, but have had a good experience learning with Udemy's courses on AWS in the past. This [one may be a good introduction](https://www.udemy.com/course/introduction-to-cloud-computing-on-amazon-aws-for-beginners/) for those new to AWS or cloud computing.
+- Learn software development:
+  - with [the missing semester course from MIT](https://missing.csail.mit.edu/).
+    - this might feel like a dry one to start off with, but since this is probably the most fundamental skill here and all others rely on it, it is a good place to start. Being comfortable with you terminal and being able to collaborate using Git will make future learnings and your eventual job much easier.
+- Learn python:
+  - I don't have an exact python course I would recommend and given there are many different levels you may be starting at, I would steer you towards the [choice of python learning paths on Real Python](https://realpython.com/learning-paths/).
+  - The main python website [python.org](https://www.python.org/about/gettingstarted/) has also indexed many useful resources
+    - Out of all the skills here, python is the one you probably want to put the most time into being good at, because it will be the end product you will be producing a lot of the time.
+- Learn statistical modelling:
+  - The book "An Introduction to Statistical Learning" is available with examples in R or Python [here](https://www.statlearning.com/).
+    - I've found this book to cover the level of detail needed to understand modelling as a data scientist in a very digestible way.
+- Learn how to do a machine learning project:
+  - This point has a lot of similarities with the above, but I think this one begins the focus on the python packages used more
+  - Andrew Ng's [machine learning specialisation](https://www.deeplearning.ai/courses/machine-learning-specialization/) on Coursera remains a classic for a reason, although pytorch has established itself over Tensorflow as the python deep learning framework of choice
+  - For a book alternative, I would recommend ["Machine Learning with PyTorch and Scikit-Learn"](https://sebastianraschka.com/blog/2022/ml-pytorch-book.html)
+- Learn (some) cloud computing:
+  - How much you need to know will vary role by role, but understanding the fundamentals is good.
+  - I don't have a stand-out recommendation for learning cloud computing, but have had a good experience learning with Udemy's courses on AWS in the past. This [one may be a good introduction](https://www.udemy.com/course/introduction-to-cloud-computing-on-amazon-aws-for-beginners/) for those new to AWS or cloud computing.
 
 After (or maybe while) you have learnt the above skills, you can begin to undertake some personal projects.
 

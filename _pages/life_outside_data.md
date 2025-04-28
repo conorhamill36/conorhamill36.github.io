@@ -33,7 +33,8 @@ toc:
     <h1>Books</h1>
     <p>I've always enjoyed esponiage novels, alongside fantasty and thrillers, and bits and pieces of non-fiction. I have a
     <a
-    href="https://www.goodreads.com/user/show/46128883-conor-hamill" rel="external nofollow noopener" target="_blank">Goodreads account</a> which is really just a database of things I've read and want to read. Some of my person favourites are below.</p>
+    href="https://www.goodreads.com/user/show/46128883-conor-hamill" rel="external nofollow noopener" target="_blank">Goodreads account</a> and a <a
+    href="https://app.thestorygraph.com/profile/conor_hamill" rel="external nofollow noopener" target="_blank"> Storygraph account</a> which are really just collections of things I've read and want to read. Some of my personal favourites are below.</p>
 
 <h2>Thrillers and crime</h2>
 <ul>
